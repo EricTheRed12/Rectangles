@@ -13,7 +13,8 @@ python3 main.py
 
 | Variables | Type | Description |
 | :--- | :--- | :--- |
-| `center` `List of Int/Float` | list of length 2 representing the center of the rectangle. |
+| `center` | `List of Int/Float` | list of length 2 representing the center of the rectangle. |
+| `center` | `List of Int/Float` | list of length 2 representing the center of the rectangle. |
 | `left` | `Int/Float` | value representing left side of rectangle |
 | `right` | `Int/Float` | value representing right side of rectangle |
 | `top` | `Int/Float` | value representing top side of rectangle |
